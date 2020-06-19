@@ -7,7 +7,7 @@ package com.lmd.strategy;
 
 /**
  *
- * @author HP
+ * @author krolandaziawor@gmail.com
  */
 public interface IStrategy {
     
